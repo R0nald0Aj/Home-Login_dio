@@ -1,0 +1,17 @@
+{
+    "users" :[
+        {
+          "id" :1 , 
+          "name" : "Miau da silva",
+           "email" :"miau@email.com",
+           "senha" :"123456"
+        },
+
+        {
+            "id" :2 , 
+            "name" : "Tuth da silva",
+             "email" :"tuth@email.com",
+             "senha" :"123456"
+          }
+    ]
+}
